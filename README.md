@@ -30,8 +30,7 @@ can only take a message:
 ![How a call flows through gradphone](docs/clone-call-flow.png)
 
 Optional add-ons: Web search API, **Gmail** (email summary), **Google
-Places** (look up a business to call). See [ARCHITECTURE.md](ARCHITECTURE.md) for
-the deeper design.
+Places** (look up a business to call).
 
 ---
 
